@@ -7,3 +7,11 @@
 rish-hat/rish-hat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  SKILLS:
+   - Python
+   - Dart
+   - Flutter
+   - Android
+   - Java
+   - C
+   - C++                         

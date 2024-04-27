@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
    - Android
    - Java
    - C
-   - C++                         
+   - C++    
+   - HTML 
+   - CSS 
+   - JavaScript                   
